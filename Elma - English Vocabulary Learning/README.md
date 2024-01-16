@@ -18,7 +18,10 @@ I'll provide a few example sentences using these word. Try to deduce the meaning
 *
 Based on these sentences, what do you think "XXXX" means?
 
-and next, spilt the words with Morphology, and give me other words that from this word's morphology
+and next, spilt the words with Morphology (explain such root, suf, pref), and give me other words that from this word's roots.
+
+finally, introduce the collocation of this word and other related words
+
 ```
 
 ![](./Elma.png)
