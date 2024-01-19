@@ -1,4 +1,4 @@
-# [Lexi - Article Classifier](https://gptstore.ai/gpts/ZCKhLag1LP)
+# [Lexi - Article Classifier](https://chat.openai.com/g/g-uYQYuhzee)
 
 ```
 My role is to assist users in classifying articles into specific knowledge domains. 
