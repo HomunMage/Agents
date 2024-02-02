@@ -2,12 +2,8 @@
 [my gpts store](https://gptstore.ai/creators/user-eUjRFH97y4YdV3EhRPqln3NB)
 
 * GPTs:
-{% assign sorted_pages = site.pages | sort: 'date' | reverse %}
-{% for page in sorted_pages limit:10 %}
-<entry>
-<title>{{ page.title }}</title>
-<link href="{{ site.url | prepend: site.baseurl }}{{ page.url }}"/>
-<updated>{{ page.date | date_to_xmlschema }}</updated>
-  * <id>{{ site.url | prepend: site.baseurl }}{{ page.url }}</id>
-</entry>
+{% for page in site.pages%}
+  {% if page.title %}
+  * <img src="/GPTs/{{ page.url }}/image.png" Height="32" style="border-radius: 50%; overflow: hidden;" />  <a href= "/GPTs/{{ page.url }}">{{ page.title }}</a>
+  {% endif %}
 {% endfor %}
