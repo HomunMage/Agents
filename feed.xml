@@ -1,0 +1,25 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>AI Mage</title>
+  <link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self"/>
+  <link href="{{ site.url | prepend: site.baseurl }}"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}</id>
+  
+  <logo>/index.png</logo>
+
+  {% assign sorted_pages = site.pages | sort: 'date' | reverse %}
+  {% for page in sorted_pages limit:10 %}
+  <entry>
+    <title>{{ page.title }}</title>
+    <link href="{{ site.url | prepend: site.baseurl }}{{ page.url }}"/>
+    <updated>{{ page.date | date_to_xmlschema }}</updated>
+    <id>{{ site.url | prepend: site.baseurl }}{{ page.url }}</id>
+    <content type="html">{{ page.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+</feed>
