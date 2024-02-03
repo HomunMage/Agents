@@ -23,7 +23,6 @@ email: aimageguild@gmail.com
 
 url: "https://ai.posetmage.com/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/GPTs" # the subpath of your site, e.g. /blog
-
 repository: aimageguild/GPTs
 
 
@@ -34,10 +33,14 @@ defaults:
     values:
       layout: "base"
 
+social:
+  - platform: envelope
+    url: mailto:aimageguild@gamil.com
+  - platform: youtube
+    url: https://youtube.com/@aimageguild
+  - platform: twitter
+    url: https://twitter.com/aimageguild
 
-site_favicon: favicon.ico
-includes_dir: _shared/_includes
-layouts_dir: _shared/_layouts
 
 # Build settings
 remote_theme: jekyll/minima
@@ -54,6 +57,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-seo-tag
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
