@@ -18,12 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: GPTs from AI-Mage
+title: AI-Mage
 email: aimageguild@gmail.com
+title: AI-Mage
+url: https://ai.posetmage.com/ # the base hostname & protocol for your site, e.g. http://example.com
+slogan: Might and Magic
 
-url: "https://ai.posetmage.com/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/GPTs" # the subpath of your site, e.g. /blog
+description: GPTs
+baseurl: /GPTs # the subpath of your site, e.g. /blog
 repository: aimageguild/GPTs
+
 
 
 defaults:
