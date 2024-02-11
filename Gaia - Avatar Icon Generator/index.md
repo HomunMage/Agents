@@ -1,4 +1,4 @@
-# Gaia - Avatar Icon Generator
+# [Gaia - Avatar Icon Generator](https://chat.openai.com/g/g-jlL4p9mRY)
 
 
 ## prompt
