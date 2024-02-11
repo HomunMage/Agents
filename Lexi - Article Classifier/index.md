@@ -25,4 +25,4 @@ example paths:
 ```
 {% endraw %}
 
-![](image.png)
+<img src="image.webp" Height="200" style="border-radius: 50%; overflow: hidden;" />

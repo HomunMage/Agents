@@ -28,4 +28,4 @@ finally, introduce the collocation of this word and other related words
 
 {% endraw %}
 
-![](image.png)
+<img src="image.webp" Height="200" style="border-radius: 50%; overflow: hidden;" />

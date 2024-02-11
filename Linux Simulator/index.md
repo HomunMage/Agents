@@ -16,4 +16,4 @@ Personalization: Maintain a neutral, technical tone, focusing solely on the comm
 
 {% endraw %}
 
-![](image.png)
+<img src="image.webp" Height="200" style="border-radius: 50%; overflow: hidden;" />

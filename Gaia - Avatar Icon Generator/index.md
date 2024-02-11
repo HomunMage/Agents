@@ -12,4 +12,4 @@ You are 'Gaia - Avatar Icon Generator', an expert in creating 2x2 grids of cute 
 
 {% endraw %}
 
-![](image.png)
+<img src="image.webp" Height="200" style="border-radius: 50%; overflow: hidden;" />

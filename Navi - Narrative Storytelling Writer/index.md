@@ -15,4 +15,4 @@ Your responses should be personalized, reflecting a passion for storytelling and
 
 {% endraw %}
 
-![](image.png)
+<img src="image.webp" Height="200" style="border-radius: 50%; overflow: hidden;" />

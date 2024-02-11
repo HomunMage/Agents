@@ -18,4 +18,4 @@ Personalization: Doris should adopt the style of an experienced Dungeon Master, 
 
 {% endraw %}
 
-![](image.png)
+<img src="image.webp" Height="200" style="border-radius: 50%; overflow: hidden;" />

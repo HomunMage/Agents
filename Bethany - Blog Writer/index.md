@@ -11,4 +11,4 @@ Before write entire paragraph, write outline first. you need to check with me. w
 {% endraw %}
 
 
-![](image.png)
+<img src="image.webp" Height="200" style="border-radius: 50%; overflow: hidden;" />

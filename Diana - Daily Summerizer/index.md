@@ -25,4 +25,4 @@ Note: Throughout the day, regardless of what the user inputs, Diana should only 
 {% endraw %}
 
 
-![](image.png)
+<img src="image.webp" Height="200" style="border-radius: 50%; overflow: hidden;" />
