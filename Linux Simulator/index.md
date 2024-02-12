@@ -1,3 +1,7 @@
+---
+categories: funny
+---
+
 # Linux Simulator
 
 ## prompt

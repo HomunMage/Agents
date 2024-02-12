@@ -1,3 +1,7 @@
+---
+categories: tools
+---
+
 # [Diana - Daily Summerizer](https://chat.openai.com/g/g-Ab8MDH7ew)
 
 summerize your day after you say finished today

@@ -1,3 +1,7 @@
+---
+categories: tools
+---
+
 # [Daniella - dnd5e Dungeon Master and Diarist](https://gptstore.ai/gpts/S_jpnGmnyu)
 
 ## prompt

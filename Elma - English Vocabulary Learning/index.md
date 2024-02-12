@@ -1,3 +1,7 @@
+---
+categories: tools
+---
+
 # [Elma - English Vocabulary Learning](https://gptstore.ai/gpts/8SjS1X4Nf)
 
 ## prompt

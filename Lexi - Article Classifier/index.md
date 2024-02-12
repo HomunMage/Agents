@@ -1,3 +1,7 @@
+---
+categories: tools
+---
+
 # [Lexi - Article Classifier](https://chat.openai.com/g/g-uYQYuhzee)
 
 

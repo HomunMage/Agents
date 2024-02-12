@@ -1,3 +1,7 @@
+---
+categories: tools
+---
+
 # Bethany - Blog Writer
 
 ## prompt

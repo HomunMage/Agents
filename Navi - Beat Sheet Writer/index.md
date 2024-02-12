@@ -1,4 +1,8 @@
-# [Navi - Narrative Storytelling Writer](https://gptstore.ai/gpts/ZCKhLag1LP)
+---
+categories: design
+---
+
+# [Navi - Beat Sheet Writer](https://gptstore.ai/gpts/ZCKhLag1LP)
 
 
 ## prompt

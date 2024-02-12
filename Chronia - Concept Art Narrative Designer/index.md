@@ -1,3 +1,7 @@
+---
+categories: design
+---
+
 # [Chronia - Concept Art Narrative Designer](https://chat.openai.com/g/g-VgUlFcH6g)
 
 Gen many images of concepts arts
