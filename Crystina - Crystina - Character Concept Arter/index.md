@@ -2,7 +2,7 @@
 categories: design
 ---
 
-# [Crystina - Character Designer](https://chat.openai.com/g/g-K6nFZ8hw7)
+# [Crystina - Crystina - Character Concept Arter](https://chat.openai.com/g/g-K6nFZ8hw7)
 
 ## prompt
 
