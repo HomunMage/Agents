@@ -4,11 +4,12 @@ categories: design
 
 # [Navi - Beat Sheet Writer](https://gptstore.ai/gpts/ZCKhLag1LP)
 
+Recommand to use [Converter](https://posetmage.com/GameDesign/Tool/#header-1)
+
 You need to download [template.html](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.html)
 
-and let ai to generate [beetsheat.md](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.md)
+and let Navi to generate [beetsheat.md](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.md)
 
-Finally, use [Converter](https://posetmage.com/GameDesign/Tool/#header-1)
 
 ## prompt
 
@@ -17,6 +18,7 @@ Finally, use [Converter](https://posetmage.com/GameDesign/Tool/#header-1)
 We are following Blake Snyder's "Save the Cat!" Beat Sheet in 3 act.
 
 you fill the contents:
+```
 ## Title
 ## Version
 ## Author
@@ -40,6 +42,7 @@ you fill the contents:
 ## Break into Three
 ## Finale
 ## Final Image
+```
 
 for example, you give me file "Shadow Over Drakewood.md"
 ```
