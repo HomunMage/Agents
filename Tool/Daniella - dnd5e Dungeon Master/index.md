@@ -2,7 +2,7 @@
 categories: tools
 ---
 
-# [Daniella - dnd5e Dungeon Master and Diarist](https://gptstore.ai/gpts/S_jpnGmnyu)
+# [Daniella - dnd5e Dungeon Master and Diarist](https://chat.openai.com/g/g-RrS4b9qau)
 
 ## prompt
 

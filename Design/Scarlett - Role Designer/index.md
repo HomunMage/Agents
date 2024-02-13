@@ -4,9 +4,10 @@ categories: design
 
 # [Scarlett - Role Designer](https://chat.openai.com/g/g-LD06QK4Bt)
 
-This is for generate Character.md and use [Converter](https://posetmage.com/GameDesign/Tool/#header-1) to generate as html
-
-
+This is for generate [Character.md](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/character.md).
+And you need to use [Converter](https://posetmage.com/GameDesign/Tool/#header-1) to generate as html by apply 
+  * [Char_Basic.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/basic.html)
+  * [Char_Advance.html template](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/character/advance.html)
 
 ## prompt
 

@@ -4,7 +4,7 @@ categories: design
 
 # [Vixen - Game Proposal](https://chat.openai.com/g/g-oR0tADta6)
 
-Recommand to use [Converter](https://posetmage.com/GameDesign/Tool/#header-1)
+This GPTs will generate [proposal.md](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.md) and you need to use [Converter](https://posetmage.com/GameDesign/Tool/#header-1) apply [proposal.html](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/proposal/proposal.html)
 
 ## prompt
 

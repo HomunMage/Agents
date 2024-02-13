@@ -2,7 +2,7 @@
 categories: tools
 ---
 
-# Bethany - Blog Writer
+# [Bethany - Blog Writer](https://chat.openai.com/g/g-5wo37b9LF)
 
 ## prompt
 

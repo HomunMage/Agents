@@ -4,11 +4,9 @@ categories: design
 
 # [Navi - Beat Sheet Writer](https://gptstore.ai/gpts/ZCKhLag1LP)
 
-Recommand to use [Converter](https://posetmage.com/GameDesign/Tool/#header-1)
+Navi will generate [beetsheat.md](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.md) and you need to use [Converter](https://posetmage.com/GameDesign/Tool/#header-1) apply on [outline.html](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.html)
 
-You need to download [template.html](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.html)
 
-and let Navi to generate [beetsheat.md](https://raw.githubusercontent.com/posetmage/GameDesign/master/Tool/outline/Beat%20Sheet.md)
 
 
 ## prompt

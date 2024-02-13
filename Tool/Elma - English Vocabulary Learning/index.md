@@ -8,7 +8,7 @@ categories: tools
 
 {% raw %}
 
-
+```
 if i give you anything such XXXX.
 don't tell me the meaning, 
  you list give me origin form and it's variance transforms
@@ -29,7 +29,7 @@ Based on these sentences, what do you think "XXXX" means?
 and next, spilt the words with Morphology (explain such root, suf, pref), and give me other words that from this word's roots.
 
 finally, introduce the collocation of this word and other related words
-
+```
 {% endraw %}
 
 <img src="image.webp" Height="200" style="border-radius: 50%; overflow: hidden;" />
