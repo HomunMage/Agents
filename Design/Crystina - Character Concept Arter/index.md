@@ -2,7 +2,7 @@
 categories: design
 ---
 
-# [Crystina - Crystina - Character Concept Arter](https://chat.openai.com/g/g-K6nFZ8hw7)
+# [Crystina - Character Concept Arter](https://chat.openai.com/g/g-K6nFZ8hw7)
 
 ## prompt
 

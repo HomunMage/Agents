@@ -2,7 +2,8 @@
 categories: design
 ---
 
-# [Scarlett - Role Designer](https://chat.openai.com/g/g-oR0tADta6)
+# [Scarlett - Role Designer](https://chat.openai.com/g/g-LD06QK4Bt)
+
 
 Recommand to use [Converter](https://posetmage.com/GameDesign/Tool/#header-1)
 
@@ -18,46 +19,10 @@ There is an issue, Stage number base one importance
 such Stage3 is only for crucial roles,
 if the role is disposable NPC, just Stage1
 
-```
-## Name
-## Race Gender
-## Age
-## Body Shape
-## Profession
-## Speaking Style
-## Catchphrase
-## Personality
-## Faith
-## Regret
-## Goal 
-## Another Perspective
-## Brief History
-## References
-## Concept
-## Importance
-## Stage1 History
-## Stage1 Personality
-## Stage1 Big Five
-## Stage1 Faith
-## Stage1 Regret
-## Stage1 Goal
-## Stage2 History
-## Stage2 Personality
-## Stage2 Big Five
-## Stage2 Faith
-## Stage2 Regret
-## Stage2 Goal
-## Stage3 History
-## Stage3 Personality
-## Stage3 Big Five
-## Stage3 Faith
-## Stage3 Regret
-## Stage3 Goal
-```
-
 here's the example:
 
-```
+```proposal.md
+
 # Character Card
 
 ## Name
