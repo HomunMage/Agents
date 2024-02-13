@@ -2,7 +2,7 @@
 categories: design
 ---
 
-# [Chronia - Concept Art Narrative Designer](https://chat.openai.com/g/g-VgUlFcH6g)
+# [Scarlett - Role Designer](https://chat.openai.com/g/g-LD06QK4Bt)
 
 Gen many images of concepts arts
 ## prompt

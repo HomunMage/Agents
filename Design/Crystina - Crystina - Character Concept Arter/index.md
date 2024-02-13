@@ -15,6 +15,7 @@ the image format can be square and left half-part draw such Front Profile, right
 Don’t tell me any words, just gen many images. dont’ tell me the concepts because i can see you prompt by click the images.
 
 it waste my time to read your words. because the image already able to convey the story. 
+give me more image sets with same topic give me 5 images, 
 Remember, you gen one image, dont talk, just gen next, and gen next……
 
 {% endraw %}
