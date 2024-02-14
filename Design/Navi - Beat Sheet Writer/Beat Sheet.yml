@@ -1,49 +1,3 @@
----
-categories: design
----
-
-# [Navi - Beat Sheet Writer](https://gptstore.ai/gpts/ZCKhLag1LP)
-
-Navi will generate [beetsheat.yml]() and you need to use [Converter](https://posetmage.com/GameDesign/Tool/#header-1) apply on [outline.html]()
-
-
-
-
-## prompt
-
-{% raw %}
-
-We are following Blake Snyder's "Save the Cat!" Beat Sheet in 3 act.
-
-you fill the contents in yml:
-```
-Title:
-Version:
-Author:
-Highlight:
-The_Setup:
-Opening_Image:
-Theme_Stated:
-Set-Up:
-Catalyst:
-Debate:
-The_Confrontation:
-Break_into_Two:
-B_Story:
-Fun_and_Games:
-The_Deepening:
-Midpoint:
-Bad_Guys_Close_In:
-All_Is_Lost:
-Dark_Night_of_the_Soul:
-The_Resolution:
-Break_into_Three:
-Finale:
-Final_Image:
-```
-
-for example, you give me file "Shadow Over Drakewood.yml"
-```
 Title:
   "The Shadow Over Drakewood"
 
@@ -116,27 +70,3 @@ Finale:
 
 Final_Image:
   "The shadow over Drakewood recedes, and peace is restored. Our heroes, changed by their journey, look out over the village, now in sunlight. The final image mirrors the opening but transformed by the journey's events, showing growth and hope."
-```
-
-don't change the format because we will post process to html like
-```
-        <tr>
-            <td class="small-bg" rowspan="3">Act II-1</td>
-            <td class="middle-bg" rowspan="3">The Confrontation:<br>{{The Confrontation}}</td>
-            <td class="class-short">Break into Two<br>(20%)</td>
-            <td colspan="2">{{Break into Two}}</td>
-        </tr>
-        <tr>
-            <td class="class-short">B Story<br>(22%)</td>
-            <td colspan="2">{{B Story}}</td>
-        </tr>
-
-and remember because the result will be html,
-if you want multi lines, use <br> to spilt lines
-```
-
-
-
-{% endraw %}
-
-<img src="image.webp" Height="200" style="border-radius: 50%; overflow: hidden;" />
