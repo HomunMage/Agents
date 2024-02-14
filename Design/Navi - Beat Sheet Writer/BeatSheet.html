@@ -1,0 +1,135 @@
+<style>
+    td {
+      text-align: center;
+      vertical-align: middle;
+      border: 1px solid gray; /* Add a border to all table cells */
+    }
+    .center-text {
+      text-align: center;
+    }
+    .table-container {
+      display: flex;
+      justify-content: center;
+    }
+  
+    .white-bg {
+      width: 10em;
+      text-align: left;
+    }  
+    .small-bg {
+      width: 2em;
+      background-color: rgb(105, 169, 211);
+    }
+    .middle-bg {
+      width: 8em;
+      background-color: rgb(148, 202, 238);
+    }
+    .top-info {
+      background-color: rgb(221, 235, 247);
+    }
+  </style>
+
+  <div class="table-container">
+    <table style="width: 720px; table-layout: fixed;">
+        <colgroup>
+            <col style="width: 8%;"> <!-- Adjust the width as needed -->
+            <col style="width: 29%;">
+            <col style="width: 14%;">
+            <col style="width: 34%;">
+            <col style="width: 15%;">
+          </colgroup>
+        <!-- title rows -->
+        <tr>
+            <td class="top-info" rowspan="2" colspan="4" style="font-weight: bold; font-size: 2em;">{{Title}}</td>
+            <td class="top-info">ver:<br>{{Version}}</td>
+        </tr>
+        <tr>
+            <!-- This cell is merged with the title cell above due to colspan="2", so only one cell needs to be defined here for the author. -->
+            <td class="top-info">Author:<br>{{Author}}</td>
+        </tr>
+        <tr>
+            <td class="top-info" colspan="5">Highlight (Slogan):<br>{{Highlight}}</td>
+        </tr>
+        <!-- First big row -->
+        <tr>
+            <td class="small-bg" rowspan="5">Act I</td>
+            <td class="middle-bg" rowspan="5">The Setup:<br>{{The_Setup}}</td>
+            <td class="class-short">Opening Image<br>(0-1%)</td>
+            <td colspan="2">{{Opening_Image}}</td>
+        </tr>
+        <tr>
+            <td class="class-short">Theme Stated<br>(5%)</td>
+            <td colspan="2">{{Theme_Stated}}</td>
+        </tr>
+        <tr>
+            <td class="class-short">Set-Up<br>(1-10%)</td>
+            <td colspan="2">{{Set-Up}}</td>
+        </tr>
+        <tr>
+            <td class="class-short">Catalyst<br>(10%)</td>
+            <td colspan="2">{{Catalyst}}</td>
+        </tr>
+        <tr>
+            <td class="class-short">Debate<br>(10-20%)</td>
+            <td colspan="2">{{Debate}}</td>
+        </tr>
+    <!-- Second big row (Act II, First Half) -->
+        <tr>
+            <td class="small-bg" rowspan="3">Act II-1</td>
+            <td class="middle-bg" rowspan="3">The Confrontation:<br>{{The_Confrontation}}</td>
+            <td class="class-short">Break into Two<br>(20%)</td>
+            <td colspan="2">{{Break_into_Two}}</td>
+        </tr>
+        <tr>
+            <td class="class-short">B Story<br>(22%)</td>
+            <td colspan="2">{{B_Story}}</td>
+        </tr>
+        <tr>
+            <td class="class-short">Fun and Games<br>(20-50%)</td>
+            <td colspan="2">{{Fun_and_Games}}</td>
+        </tr>
+    <!-- Third big row (Act II, Second Half) -->
+        <tr>
+            <td class="small-bg" rowspan="4">Act II-2</td>
+            <td class="middle-bg" rowspan="4">The Deepening:<br>{{The_Deepening}}</td>
+            <td class="class-short">Midpoint<br>(50%)</td>
+            <td colspan="2">{{Midpoint}}</td>
+        </tr>
+        <tr>
+            <td class="class-short">Bad Guys Close In<br>(50-75%)</td>
+            <td colspan="2">{{Bad_Guys_Close_In}}</td>
+        </tr>
+        <tr>
+            <td class="class-short">All Is Lost<br>(75%)</td>
+            <td colspan="2">{{All_Is_Lost}}</td>
+        </tr>
+        <tr>
+            <td class="class-short">Dark Night of the Soul<br>(75-85%)</td>
+            <td colspan="2">{{Dark_Night_of_the_Soul}}</td>
+        </tr>
+        <!-- Fourth big row (Act III) -->
+        <tr>
+            <td class="small-bg" rowspan="3">Act III</td>
+            <td class="middle-bg" rowspan="3">The Resolution:<br>{{The_Resolution}}</td>
+            <td class="class-short">Break into Three<br>(85%)</td>
+            <td colspan="2">{{Break_into_Three}}</td>
+        </tr>
+        <tr>
+            <td class="class-short">Finale<br>(85-99%)</td>
+            <td colspan="2">{{Finale}}</td>
+        </tr>
+        <tr>
+            <td class="class-short">Final Image<br>(99-100%)</td>
+            <td colspan="2">{{Final_Image}}</td>
+        </tr>
+    </table>
+</div>
+
+<div style="height: 50px"></div>
+<p class="center-text">
+  <i>
+      powered by 
+      <img src="https://posetmage.com/Images/Icon/PosetMage_t.png" height="16" /> PosetMage
+      <img src="https://posetmage.com/Images/Icon/PosetMage_t.png" height="16" />
+  </i>
+</p>
