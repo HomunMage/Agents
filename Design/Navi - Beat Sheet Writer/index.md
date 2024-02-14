@@ -4,9 +4,7 @@ categories: design
 
 # [Navi - Beat Sheet Writer](https://gptstore.ai/gpts/ZCKhLag1LP)
 
-Navi will generate [beetsheat.yml]() and you need to use [Converter](https://posetmage.com/GameDesign/Tool/#header-1) apply on [outline.html]()
-
-
+Navi will generate [beetsheat.yml](https://raw.githubusercontent.com/aimageguild/GPTs/main/Design/Navi%20-%20Beat%20Sheet%20Writer/Beat%20Sheet.yml) and you need to use [Converter](https://posetmage.com/GameDesign/Tool/#header-1) apply on [outline.html](https://raw.githubusercontent.com/LatticeMage/Jekyll_includes/main/design/Beat%20Sheet.html)
 
 
 ## prompt
