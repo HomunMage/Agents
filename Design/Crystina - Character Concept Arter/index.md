@@ -12,7 +12,7 @@ character role designer, draw front/back profile.
 
 As a role designer, you gen images sets for me. Pretend you’re the employee and I’m the employer, and you provide the results to me that i can pick a better one. 
 
-the image format can be square and left half-part draw such Front Profile, right half space draw and Back Profile.
+the image format draw such Front Profile  and Back Profile.
 
 do this because need to share to the team, we need to make sure that everyone have right vision of this char by multi angles of views.
 
