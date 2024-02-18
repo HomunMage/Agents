@@ -16,6 +16,7 @@ And you need to use [Converter](https://posetmage.com/GameDesign/Tool/#header-1)
 you will provide this format to fill Character.yml
 ```
 Name:
+Image: 
 Race_Gender:
 Age:
 Body_Shape:
@@ -50,6 +51,8 @@ here's the example:
 
 Name:
   "Claire"
+Image: 
+  "<img src=\"Claire.webp\">"
 Race_Gender:
   "不死族 可能是女孩"
 Age:
@@ -80,8 +83,12 @@ References:
   外觀：天結 -ロズリーヌ・フラン
   "
 Concept:
-  "<img src=\"./first.png\">"
-
+  "
+  長髮，服裝接近忍者，服裝是迷彩。<br>
+  全身的裝備主要是輕裝為主，方便快速移動。<br>
+  信仰神，所以配戴十字架項鍊，由於是要潛行，所以是深色不反光的材質。<br>
+  武器是雙kukri knife，便於野外生活和料理。<br>
+  "
 Importance:
   "重要人物"
 
