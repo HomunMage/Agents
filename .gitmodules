@@ -10,5 +10,5 @@
 
 [submodule "_layouts"]
 	path = _layouts
-	url = ../alchemy_layouts.git
+	url = ../ai_layouts.git
 	branch = main
