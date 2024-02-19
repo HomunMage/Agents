@@ -6,6 +6,10 @@ cd _layouts
 ./upload.bat
 cd ../
 
+cd assets
+./upload.bat
+cd ../
+
 git config --local user.name "AIMageGuild"
 git config --local user.email "AIMageGuild@users.noreply.github.com"
 git remote set-url origin git@AI:aimageguild/GPTs.git
