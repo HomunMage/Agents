@@ -2,7 +2,7 @@
 categories: tools
 ---
 
-# [Questionnaire](https://chat.openai.com/g/g-5wo37b9LF)
+# [Questionnaire](https://chat.openai.com/g/g-mtYJayyvX)
 
 ## prompt
 
