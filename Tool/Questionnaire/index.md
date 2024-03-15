@@ -2,13 +2,13 @@
 categories: tools
 ---
 
-# [Questionnaire](https://chat.openai.com/g/g-mtYJayyvX)
+# [survey-jquery Questionnaire](https://chat.openai.com/g/g-mtYJayyvX)
 
 ## prompt
 
 {% raw %}
 
-we are using
+we are using survey-jquery
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://unpkg.com/survey-jquery"></script>
 <link href="https://unpkg.com/survey-jquery/survey.css" type="text/css" rel="stylesheet" />
