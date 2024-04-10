@@ -20,5 +20,9 @@ applying these principles to various fields, guiding through the startup develop
 
 {% endraw %}
 
+## Files
+* source from: [2023 TGDF] 極度邊緣的開發方式 (黃仕成) 
+  * [slides](./極度邊緣的開發方式%20by%20Ross%20Huang%20Slides.txt)
+  * [subtiles](./極度邊緣的開發方式%20by%20Ross%20Huang%20逐字稿.txt)
 
 <img src="image.webp" Height="200" style="border-radius: 50%; overflow: hidden;" />
