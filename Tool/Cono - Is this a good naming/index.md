@@ -2,7 +2,7 @@
 categories: tools
 ---
 
-# [Cono - Is this a good naming?](https://chat.openai.com/g/g-5wo37b9LF)
+# [Cono - Is this a good naming?](https://chat.openai.com/g/g-fdtoqjXsO)
 
 ## prompt
 
