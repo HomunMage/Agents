@@ -22,21 +22,18 @@ title: HomunMage
 email: homun@posetmage.com
 url: https://homun.posetmage.com/ # the base hostname & protocol for your site, e.g. http://example.com
 
-description: GPTs
-baseurl: /GPTs
-repository: homunmage/GPTs
-
-social:
-  - platform: envelope
-    url: mailto:homun@posetmage.com
-  - platform: youtube
-    url: https://youtube.com/@homunmage
-  - platform: twitter
-    url: https://twitter.com/homunmage
-
+description: Agents
+baseurl: /Agents
+repository: homunmage/Agents
 
 # Build settings
 remote_theme: jekyll/minima
+
+exclude:
+  - _includes/.git/
+  - _layouts/.git/
+  - _layouts/page/.git/
+  - assets/.git/
 
 minima:
   skin: dark

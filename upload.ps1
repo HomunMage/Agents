@@ -3,7 +3,7 @@ cd _includes
 cd ../
 
 cd _layouts
-./upload.bat
+./upload.ps1
 cd ../
 
 cd assets
@@ -12,7 +12,7 @@ cd ../
 
 git config --local user.name "HomunMage"
 git config --local user.email "homun@posetmage.com"
-git remote set-url origin git@HO:homunmage/GPTs.git
+git remote set-url origin git@HO:homunmage/Agents.git
 
 git submodule update --recursive --remote
 
