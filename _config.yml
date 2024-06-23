@@ -26,6 +26,13 @@ description: Agents
 baseurl: /Agents
 repository: homunmage/Agents
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "base"
+
 # Build settings
 remote_theme: jekyll/minima
 
