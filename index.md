@@ -3,9 +3,8 @@
 ## LangChain/LangGraph
 
 * [LangGraph-GUI](https://github.com/LangGraph-GUI/LangGraph-GUI)
-* [CrewAI-GUI](https://github.com/HomunMage/CrewAI-GUI)
 * [Learning LangGraph](https://github.com/LangGraph-GUI/LangGraph-learn)
-* [CrewAI](https://github.com/HomunMage/AI_Agents)
+* [CrewAI-GUI](https://github.com/LangGraph-GUI/CrewAI-GUI-Qt)
 
 ## GPTs
 
